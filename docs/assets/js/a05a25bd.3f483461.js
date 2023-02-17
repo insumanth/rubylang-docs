@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrubylang_docs=self.webpackChunkrubylang_docs||[]).push([[6628],{9054:s=>{s.exports=JSON.parse('{"permalink":"/rubylang-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

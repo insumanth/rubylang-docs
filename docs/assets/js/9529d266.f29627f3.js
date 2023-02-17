@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrubylang_docs=self.webpackChunkrubylang_docs||[]).push([[2418],{4359:l=>{l.exports=JSON.parse('{"label":"hello","permalink":"/rubylang-docs/blog/tags/hello","allTagsPath":"/rubylang-docs/blog/tags","count":2}')}}]);
